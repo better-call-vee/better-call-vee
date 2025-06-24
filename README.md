@@ -2,7 +2,7 @@
   <img src="Banner.jpg" alt="Faiyaz Tanvee Banner" width="900"/>
 </p>
 
-<h1 align="center">Faiyaz Tanvee</h1>
+<h1 align="center">Hello There, I am Faiyaz Tanvee</h1>
 
 <p align="center">
   I am an AI Enthusiast and Full-Stack Developer based in Dhaka, Bangladesh, with a B.Sc. in Computer Science from BUBT. My goal is to build intelligent systems with a strong foundation in MERN stack development, allowing me to create and deploy end-to-end applications.
