@@ -54,9 +54,9 @@
 
 <div align="left" style="display: flex; justify-content: center;">
   <ul style="list-style-type: none; padding-left: 0;">
-    <li style="margin-bottom: 10px;">🎯 &nbsp; Actively seeking an internship or full-time role in <strong>MERN Stack Development</strong> to contribute to building robust web applications.</li>
+    <li style="margin-bottom: 10px;">🎯 &nbsp; Actively seeking a remote internship or full-time role in <strong>MERN Stack Development</strong> to contribute to building robust web applications.</li>
     <li style="margin-bottom: 10px;">📚 &nbsp; Expanding my expertise in <strong>Machine Learning</strong> and <strong>Data Science</strong> through self-study and hands-on projects.</li>
-    <li style="margin-bottom: 10px;">💻 &nbsp; Consistently solving problems on <strong>LeetCode</strong> to strengthen my foundation in Data Structures and Algorithms.</li>
+    <li style="margin-bottom: 10px;">💻 &nbsp; Consistently trying to make time to solve problems on <strong>LeetCode</strong> to strengthen my foundation in Data Structures and Algorithms.</li>
   </ul>
 </div>
 
