@@ -13,8 +13,24 @@
 <br />
 
 <h2 align="center">🚀 My Tech Stack & Skills</h2>
+
+<p align="center">A collection of the primary languages, frameworks, and tools I work with.</p>
+
+<br>
+
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript,html,css,c,cpp,python,jupyter,git,vscode" alt="Web Dev & Other Skills"/></a>
+  <strong>Programming Languages</strong><br>
+  <a href="https://skillicons.dev/icons?i=python,c,cpp" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python,c,cpp" alt="Programming Languages"/></a>
+</p>
+
+<p align="center">
+  <strong>Full-Stack Development (MERN)</strong><br>
+  <a href="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript,html,css" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript,html,css" alt="Full-Stack Development Skills"/></a>
+</p>
+
+<p align="center">
+  <strong>Tools & Technologies</strong><br>
+  <a href="https://skillicons.dev/icons?i=jupyter,git,vscode" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jupyter,git,vscode" alt="Developer Tools"/></a>
 </p>
 
 <br />
