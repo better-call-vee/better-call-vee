@@ -14,9 +14,7 @@
 
 <h2 align="center">🚀 My Tech Stack & Skills</h2>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,numpy,pandas,jupyter" alt="AI/ML Skills"/></a>
-  <br>
-  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript,html,css,cpp,git,vscode" alt="Web Dev & Other Skills"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript,html,css,c,cpp,python,jupyter,git,vscode" alt="Web Dev & Other Skills"/></a>
 </p>
 
 <br />
