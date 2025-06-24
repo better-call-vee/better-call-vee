@@ -30,7 +30,7 @@
 
 <p align="center">
   <strong>Tools & Technologies</strong><br>
-  <a href="https://skillicons.dev/icons?i=jupyter,git,vscode" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jupyter,git,vscode" alt="Developer Tools"/></a>
+  <a href="https://skillicons.dev/icons?i=jupyterlab,git,vscode" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jupyterlab,git,vscode" alt="Developer Tools"/></a>
 </p>
 
 <br />
