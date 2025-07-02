@@ -5,7 +5,7 @@
 <h1 align="center">Hello There, I am Faiyaz Tanvee</h1>
 
 <p align="center">
-  I am an AI Enthusiast and Full-Stack Developer based in Dhaka, Bangladesh, currently doing B.Sc. in Computer Science from BUBT. My goal is to build intelligent systems with a strong foundation in MERN stack development, allowing me to create and deploy end-to-end applications.
+  I am a Full-Stack Developer and AI enthusiast from Dhaka, Bangladesh, currently completing my B.Sc. in Computer Science at BUBT. I specialize in building end-to-end intelligent systems with the MERN stack, and my practical development skills are complemented by a strong research interest in Explainable AI (X-AI). My goal is to create applications that are not only powerful but also transparent and understandable.
 </p>
 
 <br />
